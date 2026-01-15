@@ -1,0 +1,46 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/1.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/2.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/3.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/4.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/5.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/6.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        },
+        {
+            "imgPath": "img/places/7.jpg",
+            "imgLocation": "New York City",
+            "description": "New York International Auto Show",
+            "date": "04/2025"
+        }
+  ]
+}
